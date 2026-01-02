@@ -27,6 +27,8 @@ revenue-profitability-sql/
 │   ├── query3_product_profitability.png
 │   └── query4_segment_contribution.png
 │
+
+└── INSIGHTS.md
 └── README.md
 ```
 
