@@ -79,5 +79,10 @@ Customer attributes including segment (Retail, SME, Corporate) and country.
 
 📷 Output: `query4_segment_contribution.png`
 
+## 📌 Key Insights
+A summary of the main findings and business implications derived from the analysis is available here:
+
+👉 [INSIGHTS.md](INSIGHTS.md)
+
 ## ⚠️ Disclaimer
 This project uses **synthetic data** and does not represent real customer information.
